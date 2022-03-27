@@ -1,33 +1,57 @@
 # Minecraft But, You can Craft IMPOSSIBLE Tiktok Hacks
 
+[About](https://github.com/diversifiedplayz/tiktok_hacks/edit/main/README.md#-1) •
+[Supported version](https://github.com/diversifiedplayz/tiktok_hacks/edit/main/README.md#-2) •
+[Showcase Video](https://github.com/diversifiedplayz/tiktok_hacks/edit/main/README.md#-3)
+
+---
+
+## ![Version](https://i.postimg.cc/qqyynJVB/1182-header.png)
+
+---
+
 ## ![About](https://i.postimg.cc/qvLcjvtz/about-header.png)
 
-#### Pocket Portal
-- One block tall nether portal that actually works
+#### **Pocket Portal**
+One block tall nether portal that actually works
+
+#### **Fire-Aspect Sword**
+Smelting wooden sword enchants it with Fire Aspect I
+
+#### **Allay**
+When you eat a cookie while standing on a noteblock, you transform to an allay for cetrain time duration
+
+#### **Cactus helmet**
+Spikey as it sounds, it is enchanted with Thorns V 
 
 
-#### Fire-Aspect Sword
-- Smelting wooden sword enchants it with Fire Aspect I
- 
+#### **Hacker gun**
+A gun that shoots random things 
 
-#### Allay
-- When you eat a cookie while standing on a noteblock, you transform to an allay for cetrain time duration
- 
-
-#### Cactus helmet
-- Spikey as it sounds, it is enchanted with Thorns V 
- 
-
-#### Hacker gun
-- A gun that shoots random things 
+---
 
 ## ![Support](https://i.postimg.cc/g0xw8z39/support-header.png)
+
 | **Client**        | **Supported**|
 | -------------     |:-------------:|
 | Optifine          | yes           |
 | Sodium            | yes           |
 | Vannila.          | yes           |
 
+---
+
+## ![YouTube](https://i.postimg.cc/CL8nzQhJ/You-Tube-header.png)
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=ZsuCBSU_3aQ
+" target="_blank"><img src="http://img.youtube.com/vi/ZsuCBSU_3aQ/0.jpg" 
+alt="Showcase_Video" width="240" height="180" border="10" /></a>
+
+
+---
+
+## ![Discord](https://i.postimg.cc/NG3x0Vqf/discord-header.png)
+Join My Discord Server : [https://discord.gg/x684rYnTaN]
+
+---
 
 ## ![License](https://i.postimg.cc/sfvnx7MK/license-header.png)
 
