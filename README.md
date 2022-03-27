@@ -2,7 +2,8 @@
 
 [About](https://github.com/diversifiedplayz/tiktok_hacks/edit/main/README.md#-1) •
 [Supported version](https://github.com/diversifiedplayz/tiktok_hacks/edit/main/README.md#-2) •
-[Showcase Video](https://github.com/diversifiedplayz/tiktok_hacks/edit/main/README.md#-3)
+[Showcase Video](https://github.com/diversifiedplayz/tiktok_hacks/edit/main/README.md#-4) •
+[Installation guide](https://github.com/diversifiedplayz/tiktok_hacks/edit/main/README.md#-3)
 
 ---
 
