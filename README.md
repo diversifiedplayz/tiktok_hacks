@@ -40,6 +40,12 @@ A gun that shoots random things
 
 ---
 
+## ![Guide](https://i.postimg.cc/0Qj4wdRf/guide-header.png)
+### Both DataPack and required Resourcepack are present for download on this page.
+
+
+---
+
 ## ![YouTube](https://i.postimg.cc/CL8nzQhJ/You-Tube-header.png)
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=ZsuCBSU_3aQ
 " target="_blank"><img src="http://img.youtube.com/vi/ZsuCBSU_3aQ/0.jpg" 
