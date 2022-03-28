@@ -86,6 +86,8 @@ A gun that shoots random things
 ![pic_3](https://i.postimg.cc/PrrN2Xjw/Screenshot-2022-03-28-at-1-27-20-PM.png)
 <br>
 
+**If you dont know how to install a DataPack refer this video : [https://www.youtube.com/watch?v=v8desSO_CAA]**
+
 ---
 
 ###### 5
