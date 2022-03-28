@@ -1,37 +1,42 @@
 # Minecraft But, You can Craft IMPOSSIBLE Tiktok Hacks
 
-[About](https://github.com/diversifiedplayz/tiktok_hacks/edit/main/README.md#-1) •
-[Supported version](https://github.com/diversifiedplayz/tiktok_hacks/edit/main/README.md#-2) •
-[Showcase Video](https://github.com/diversifiedplayz/tiktok_hacks/edit/main/README.md#-4) •
-[Installation guide](https://github.com/diversifiedplayz/tiktok_hacks/edit/main/README.md#-3)
+[About](#2) •
+[Supported version](#3) •
+[Showcase Video](#4) •
+[Installation guide](#5) •
+[Discord](#6) •
+[License](#7) 
 
 ---
 
-## ![Version](https://i.postimg.cc/qqyynJVB/1182-header.png)
+###### 1
+![Version](https://i.postimg.cc/qqyynJVB/1182-header.png)
 
 ---
 
-## ![About](https://i.postimg.cc/qvLcjvtz/about-header.png)
+###### 2 
+![About](https://i.postimg.cc/qvLcjvtz/about-header.png)
 
-#### **Pocket Portal**
+**Pocket Portal**<br />
 One block tall nether portal that actually works
 
-#### **Fire-Aspect Sword**
+**Fire-Aspect Sword**<br />
 Smelting wooden sword enchants it with Fire Aspect I
 
-#### **Allay**
+**Allay**<br />
 When you eat a cookie while standing on a noteblock, you transform to an allay for cetrain time duration
 
-#### **Cactus helmet**
+**Cactus helmet**<br />
 Spikey as it sounds, it is enchanted with Thorns V 
 
 
-#### **Hacker gun**
+**Hacker gun**<br />
 A gun that shoots random things 
 
 ---
 
-## ![Support](https://i.postimg.cc/g0xw8z39/support-header.png)
+###### 3
+![Support](https://i.postimg.cc/g0xw8z39/support-header.png)
 
 | **Client**        | **Supported**|
 | -------------     |:-------------:|
@@ -41,13 +46,15 @@ A gun that shoots random things
 
 ---
 
-## ![Guide](https://i.postimg.cc/0Qj4wdRf/guide-header.png)
-### Both DataPack and required Resourcepack are present for download on this page.
+###### 4
+![Guide](https://i.postimg.cc/0Qj4wdRf/guide-header.png)
+
 
 
 ---
 
-## ![YouTube](https://i.postimg.cc/CL8nzQhJ/You-Tube-header.png)
+###### 5
+![YouTube](https://i.postimg.cc/CL8nzQhJ/You-Tube-header.png)
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=ZsuCBSU_3aQ
 " target="_blank"><img src="http://img.youtube.com/vi/ZsuCBSU_3aQ/0.jpg" 
 alt="Showcase_Video" width="240" height="180" border="10" /></a>
@@ -55,12 +62,14 @@ alt="Showcase_Video" width="240" height="180" border="10" /></a>
 
 ---
 
-## ![Discord](https://i.postimg.cc/NG3x0Vqf/discord-header.png)
+###### 6
+![Discord](https://i.postimg.cc/NG3x0Vqf/discord-header.png)
 Join My Discord Server : [https://discord.gg/x684rYnTaN]
 
 ---
 
-## ![License](https://i.postimg.cc/sfvnx7MK/license-header.png)
+###### 7
+![License](https://i.postimg.cc/sfvnx7MK/license-header.png)
 
 Shield: [![CC BY 4.0][cc-by-shield]][cc-by]
 
