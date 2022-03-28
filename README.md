@@ -1,9 +1,10 @@
-# Minecraft But, You can Craft IMPOSSIBLE Tiktok Hacks
+# Minecraft But, You Can Craft IMPOSSIBLE Tiktok Hacks
+
 
 [About](#2) •
 [Supported version](#3) •
-[Showcase Video](#4) •
-[Installation guide](#5) •
+[Showcase Video](#5) •
+[Installation guide](#4) •
 [Discord](#6) •
 [License](#7) 
 
@@ -49,7 +50,23 @@ A gun that shoots random things
 ###### 4
 ![Guide](https://i.postimg.cc/0Qj4wdRf/guide-header.png)
 
+**1. click on code button**
+<br />
 
+![pic_1](https://i.postimg.cc/XvDg7Hk2/Screenshot-2022-03-28-at-1-26-44-PM.png)
+<br />
+
+**2. click on download zip**
+<br />
+
+![pic_2](https://i.postimg.cc/P5JprtVj/Screenshot-2022-03-28-at-1-26-52-PM.png)
+<br />
+
+**3. Zip file should contain DataPack and Resourcepack**
+<br />
+
+![pic_3](https://i.postimg.cc/PrrN2Xjw/Screenshot-2022-03-28-at-1-27-20-PM.png)
+<br />
 
 ---
 
