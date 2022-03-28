@@ -1,12 +1,30 @@
+---
+<div align="center">
+
 # Minecraft But, You Can Craft IMPOSSIBLE Tiktok Hacks
+<p align="center">
+  <img 
+    width="300"
+    height="300"
+    src="https://i.postimg.cc/P5w53KSg/pack.png"
+  >
+
+</p>
 
 
-[About](#2) •
-[Supported version](#3) •
-[Showcase Video](#5) •
-[Installation guide](#4) •
-[Discord](#6) •
-[License](#7) 
+ 
+  
+  ## Quick-Links
+  
+<p align="center">
+  <a href="#4"><b>Installation Instructions</b></a> •
+  <a href="#3"><b>Supported Mods</b></a> •
+  <a href="#2"><b>About</b></a> •
+  <a href="#5"><b>Showcase video</b></a> •
+  <a href="#7"><b>License</b></a> •
+  <a href="#6"><b>Discord</b></a>
+</p>
+</div>
 
 ---
 
@@ -49,24 +67,24 @@ A gun that shoots random things
 
 ###### 4
 ![Guide](https://i.postimg.cc/0Qj4wdRf/guide-header.png)
-
+<br><br>
 **1. click on code button**
-<br />
+<br>
 
 ![pic_1](https://i.postimg.cc/XvDg7Hk2/Screenshot-2022-03-28-at-1-26-44-PM.png)
-<br />
+<br /><br />
 
 **2. click on download zip**
-<br />
+<br>
 
 ![pic_2](https://i.postimg.cc/P5JprtVj/Screenshot-2022-03-28-at-1-26-52-PM.png)
-<br />
+<br>
 
 **3. Zip file should contain DataPack and Resourcepack**
-<br />
+<br>
 
 ![pic_3](https://i.postimg.cc/PrrN2Xjw/Screenshot-2022-03-28-at-1-27-20-PM.png)
-<br />
+<br>
 
 ---
 
@@ -98,3 +116,9 @@ This work is licensed under a
 [cc-by]: http://creativecommons.org/licenses/by/4.0/
 [cc-by-image]: https://i.creativecommons.org/l/by/4.0/88x31.png
 [cc-by-shield]: https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg
+
+---
+<br>
+<p align="center">
+  <a href="#quick-links">Back to Top</a>
+  </p>
