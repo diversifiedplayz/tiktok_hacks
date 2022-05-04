@@ -101,7 +101,7 @@ alt="Showcase_Video" width="240" height="180" border="10" /></a>
 
 ###### 6
 ![Discord](https://i.postimg.cc/NG3x0Vqf/discord-header.png)
-Join My Discord Server : [https://discord.gg/x684rYnTaN]
+Join My Discord Server : [https://dsc.gg/diversifiedplayz]
 
 ---
 
